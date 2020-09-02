@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "961298368382",
+    "firebase_url": "https://fir-cloud-c2a98.firebaseio.com",
+    "project_id": "fir-cloud-c2a98",
+    "storage_bucket": "fir-cloud-c2a98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961298368382:android:ad151fd9a88ea7eb32552f",
+        "android_client_info": {
+          "package_name": "slode.elsloude.firebasecloud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961298368382-uivqv8c5c61oi8lvfptqemdh3quaadcs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1D8b6kbgCw26GJVTFfVtSSiQhWukURUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961298368382-uivqv8c5c61oi8lvfptqemdh3quaadcs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
